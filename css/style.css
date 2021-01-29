@@ -53,13 +53,13 @@ body{
   min-height: 566px;
 }
 .slide-1{
-  background: #B4D1E0 url('/images/slide-image-1.png') no-repeat top right 30%;
+  background: #B4D1E0 url('../images/slide-image-1.png') no-repeat top right 30%;
 }
 .slide-2{
-  background: #f1f1ee url('/images/slide-image-2.jpg')0 0/ cover no-repeat;
+  background: #f1f1ee url('../images/slide-image-2.jpg')0 0/ cover no-repeat;
 }
 .slide-3{
-  background: #f1f1ee url('/images/slide-image-3.jpg')0 0/ cover no-repeat;
+  background: #f1f1ee url('../images/slide-image-3.jpg')0 0/ cover no-repeat;
 }
 .label{
   background-color: #3DC47E;
@@ -108,22 +108,22 @@ body{
     padding: 60px 46px 80px 46px;
   }
   .card-1{
-    background: #E3E2E3 url('/images/card-image-1.jpg') no-repeat top right;
+    background: #E3E2E3 url('../images/card-image-1.jpg') no-repeat top right;
     background-size: cover;
   }
   .card-2{
-    background: #000000 url('/images/card-image-2.png') no-repeat top right;
+    background: #000000 url('../images/card-image-2.png') no-repeat top right;
     background-size: cover;
   }
   .card-3{
     padding-top: 35px;
-    background: #CCD5E6 url('/images/card-image-3.png') no-repeat top right 10%;
+    background: #CCD5E6 url('../images/card-image-3.png') no-repeat top right 10%;
     background-size: contain;
   }
   .card-4{
     padding-top: 35px;
     padding-left: 25px;
-    background: #FF4F52 url('/images/card-image-4.png') no-repeat top right;
+    background: #FF4F52 url('../images/card-image-4.png') no-repeat top right;
     background-size: contain;
   }
   .card-title{
